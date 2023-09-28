@@ -1,0 +1,13 @@
+.App {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  min-height: 100vh;
+  text-align: center;
+  padding: 2rem;
+}
+
+.Content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
